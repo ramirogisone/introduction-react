@@ -1,0 +1,19 @@
+{
+  "name": "proy-1",
+  "version": "1.0.0",
+  "description": "firs proyect react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirogisone/introduction-react.git"
+  },
+  "author": "Ramiro Gisone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramirogisone/introduction-react/issues"
+  },
+  "homepage": "https://github.com/ramirogisone/introduction-react#readme"
+}
