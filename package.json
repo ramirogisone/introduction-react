@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ramirogisone/introduction-react/issues"
   },
-  "homepage": "https://github.com/ramirogisone/introduction-react#readme"
+  "homepage": "https://github.com/ramirogisone/introduction-react#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
